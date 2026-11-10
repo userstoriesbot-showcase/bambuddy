@@ -401,7 +401,7 @@ export default {
     nextAvailable: 'Next available',
     powerOn: 'Power On',
     offlinePrintersWithPlugs: 'Offline printers with smart plugs',
-    noPrintersConfigured: 'No printers configured yet',
+    noPrintersConfigured: 'No printers added yet',
     search: 'Search printers...',
     noSearchResults: 'No printers match your search or filters',
     filter: {
